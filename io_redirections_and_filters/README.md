@@ -9,4 +9,5 @@
 - `4-lastlines`: Displays the last 10 lines /etc/passwd.
 - `5-firstlines`: Displays the first 10 lines of /etc/passwd.
 - `6-third_line`: Displays the third line of the file `iacta`.
+- `7-file`: Creates a file named `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text `Best School`, followed by a new line.
 
