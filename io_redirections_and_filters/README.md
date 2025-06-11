@@ -11,3 +11,4 @@
 - `6-third_line`: Displays the third line of the file `iacta`.
 - `7-file`: Creates a file named "Best School" > $'\\*\\\\\\"Best School"\'\\*$?*****:)' containing the text `Best School`, followed by a new line.
 - `8-cwd_state`: Saves the current directory's detailed listing (`ls -la`) into a file named `ls_cwd_content`.
+- `9-duplicate_last_line`: Duplicates the last line of the file `iacta` by appending it again to the end.
