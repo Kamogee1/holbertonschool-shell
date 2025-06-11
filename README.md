@@ -17,3 +17,6 @@ This project contains scripts for working with shell permissions.
 - `7-everybody`: Adds execute permission to the owner, group owner, and other on the file `heello`.
 - `9-John_Doe`: Sets the mode of the file `hello` to `-rwxr-x-wx`.
 - `8-James_Bond`: Removes all permissions for owner and group, and gives all permissions to others on file `hello`.
+- `10-mirror_permissions`: Sets the mode of the file `hello` to be the same as `olleh`.
+- `11-directories_permissions`: Adds execute permissions to all subdirectories of the current directory for owner, group, and others. Regular files remain unchanged.
+- `12-directory_permissions`: Creates a directory named `my_dir` with persmissions `751` in the working directory.
