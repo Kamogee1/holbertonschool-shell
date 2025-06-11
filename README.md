@@ -16,3 +16,4 @@ This project contains scripts for working with shell permissions.
 - `6-multiple_permissions`: This script adds execute permissions to the owner and group owner, and read permissions to others, to the file `hello`.
 - `7-everybody`: Adds execute permission to the owner, group owner, and other on the file `heello`.
 - `9-John_Doe`: Sets the mode of the file `hello` to `-rwxr-x-wx`.
+- `8-James_Bond`: Removes all permissions for owner and group, and gives all permissions to others on file `hello`.
