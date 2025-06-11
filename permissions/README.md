@@ -10,3 +10,4 @@ This project contains scripts for working with shell permissions.
 - `6-multiple_permissions`: This script adds execute permission to the owner and group owner, and read permission to others, to the file `hello`. 
 - `8-James_Bond`: Removes all permissions for owner and group, and gives all permissions to others on file `hello`.
 - `13-change_group`: Changes the group owner of the file `hello` to `school`.
+- `14-change_owner_and_group`: Changes the owner to `vincent` and the group owner to `staff` for all files and directories in the working directory.
